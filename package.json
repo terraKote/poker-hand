@@ -26,5 +26,9 @@
     "jest": "^22.3.0",
     "nodemon": "^1.15.1",
     "webpack": "^3.11.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
   }
 }
